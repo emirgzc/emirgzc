@@ -3,6 +3,6 @@
 
 <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif"><img src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%" style="max-width: 100%;"></a></p>
 
-<p align="center" dir="auto">I'm a student developer.<br> I’m currently working on Flutter and .NET<br> I love reading books, traveling the country and of course coding.<br></p>
+<p align="center" dir="auto">I'm a student developer.<br> I’m currently working on Flutter and .NET Core<br> I love reading books, traveling the country and of course coding.<br></p>
 
 
